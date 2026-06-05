@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="004d542f-6ecb-49ec-860a-f6545a0c54fc" name="witam@DUCKS 2026-06-04 14:29:08" runUser="DUCKS\witam" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2026-06-04T14:29:08.0466817+02:00" queuing="2026-06-04T14:29:08.0466820+02:00" start="2026-06-04T14:29:07.4132750+02:00" finish="2026-06-04T14:29:08.0538451+02:00" />
+  <TestSettings name="default" id="f575ff44-50d9-46ad-82f5-946758ec3d4c">
+    <Deployment runDeploymentRoot="witam_DUCKS_2026-06-04_14_29_08" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="7699d7bb-da0f-4baf-b324-43d4b6eb3541" testId="bb8590e3-262b-34ab-ba51-6ef9e9e809e2" testName="CalculatorApp.Tests.CalculatorTests.ShouldThrowExceptionWhenDividingByZero" computerName="DUCKS" duration="00:00:00.0009344" startTime="2026-06-04T14:29:07.9370323+02:00" endTime="2026-06-04T14:29:07.9370324+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7699d7bb-da0f-4baf-b324-43d4b6eb3541" />
+    <UnitTestResult executionId="0e7d8d05-b0af-45a3-b85b-e82a76649a8d" testId="72fab299-8a45-cf29-a09b-ae8f3f791e25" testName="CalculatorApp.Tests.CalculatorTests.ShouldAddTwoNumbers" computerName="DUCKS" duration="00:00:00.0306882" startTime="2026-06-04T14:29:07.9343759+02:00" endTime="2026-06-04T14:29:07.9343962+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0e7d8d05-b0af-45a3-b85b-e82a76649a8d" />
+    <UnitTestResult executionId="ad018c7e-39c1-4a38-bd56-3ecc4d2d5913" testId="baab402d-8c6d-e8c3-5427-2504f5dada71" testName="CalculatorApp.Tests.CalculatorTests.ShouldDivideTwoNumbers" computerName="DUCKS" duration="00:00:00.0001694" startTime="2026-06-04T14:29:07.9366527+02:00" endTime="2026-06-04T14:29:07.9366527+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ad018c7e-39c1-4a38-bd56-3ecc4d2d5913" />
+    <UnitTestResult executionId="0f0dfb42-2533-4ddc-96c1-11ccc474c581" testId="ef3243d9-129e-47c7-12f9-20cb21370a8d" testName="CalculatorApp.Tests.CalculatorTests.ShouldSubtractTwoNumbers" computerName="DUCKS" duration="00:00:00.0001252" startTime="2026-06-04T14:29:07.9370592+02:00" endTime="2026-06-04T14:29:07.9370592+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0f0dfb42-2533-4ddc-96c1-11ccc474c581" />
+    <UnitTestResult executionId="33d616e9-de16-4838-969a-fcf9248e6764" testId="b3c49144-b83a-2af6-30d5-603c3d38c099" testName="CalculatorApp.Tests.CalculatorTests.ShouldMultiplyTwoNumbers" computerName="DUCKS" duration="00:00:00.0000783" startTime="2026-06-04T14:29:07.9370860+02:00" endTime="2026-06-04T14:29:07.9370860+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="33d616e9-de16-4838-969a-fcf9248e6764" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="CalculatorApp.Tests.CalculatorTests.ShouldDivideTwoNumbers" storage="c:\users\witam\desktop\calculatortdd\calculatorapp.tests\bin\debug\net9.0\calculatorapp.tests.dll" id="baab402d-8c6d-e8c3-5427-2504f5dada71">
+      <Execution id="ad018c7e-39c1-4a38-bd56-3ecc4d2d5913" />
+      <TestMethod codeBase="C:\Users\witam\Desktop\calculatortdd\CalculatorApp.Tests\bin\Debug\net9.0\CalculatorApp.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CalculatorApp.Tests.CalculatorTests" name="ShouldDivideTwoNumbers" />
+    </UnitTest>
+    <UnitTest name="CalculatorApp.Tests.CalculatorTests.ShouldAddTwoNumbers" storage="c:\users\witam\desktop\calculatortdd\calculatorapp.tests\bin\debug\net9.0\calculatorapp.tests.dll" id="72fab299-8a45-cf29-a09b-ae8f3f791e25">
+      <Execution id="0e7d8d05-b0af-45a3-b85b-e82a76649a8d" />
+      <TestMethod codeBase="C:\Users\witam\Desktop\calculatortdd\CalculatorApp.Tests\bin\Debug\net9.0\CalculatorApp.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CalculatorApp.Tests.CalculatorTests" name="ShouldAddTwoNumbers" />
+    </UnitTest>
+    <UnitTest name="CalculatorApp.Tests.CalculatorTests.ShouldThrowExceptionWhenDividingByZero" storage="c:\users\witam\desktop\calculatortdd\calculatorapp.tests\bin\debug\net9.0\calculatorapp.tests.dll" id="bb8590e3-262b-34ab-ba51-6ef9e9e809e2">
+      <Execution id="7699d7bb-da0f-4baf-b324-43d4b6eb3541" />
+      <TestMethod codeBase="C:\Users\witam\Desktop\calculatortdd\CalculatorApp.Tests\bin\Debug\net9.0\CalculatorApp.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CalculatorApp.Tests.CalculatorTests" name="ShouldThrowExceptionWhenDividingByZero" />
+    </UnitTest>
+    <UnitTest name="CalculatorApp.Tests.CalculatorTests.ShouldSubtractTwoNumbers" storage="c:\users\witam\desktop\calculatortdd\calculatorapp.tests\bin\debug\net9.0\calculatorapp.tests.dll" id="ef3243d9-129e-47c7-12f9-20cb21370a8d">
+      <Execution id="0f0dfb42-2533-4ddc-96c1-11ccc474c581" />
+      <TestMethod codeBase="C:\Users\witam\Desktop\calculatortdd\CalculatorApp.Tests\bin\Debug\net9.0\CalculatorApp.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CalculatorApp.Tests.CalculatorTests" name="ShouldSubtractTwoNumbers" />
+    </UnitTest>
+    <UnitTest name="CalculatorApp.Tests.CalculatorTests.ShouldMultiplyTwoNumbers" storage="c:\users\witam\desktop\calculatortdd\calculatorapp.tests\bin\debug\net9.0\calculatorapp.tests.dll" id="b3c49144-b83a-2af6-30d5-603c3d38c099">
+      <Execution id="33d616e9-de16-4838-969a-fcf9248e6764" />
+      <TestMethod codeBase="C:\Users\witam\Desktop\calculatortdd\CalculatorApp.Tests\bin\Debug\net9.0\CalculatorApp.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CalculatorApp.Tests.CalculatorTests" name="ShouldMultiplyTwoNumbers" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="bb8590e3-262b-34ab-ba51-6ef9e9e809e2" executionId="7699d7bb-da0f-4baf-b324-43d4b6eb3541" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="72fab299-8a45-cf29-a09b-ae8f3f791e25" executionId="0e7d8d05-b0af-45a3-b85b-e82a76649a8d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="baab402d-8c6d-e8c3-5427-2504f5dada71" executionId="ad018c7e-39c1-4a38-bd56-3ecc4d2d5913" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ef3243d9-129e-47c7-12f9-20cb21370a8d" executionId="0f0dfb42-2533-4ddc-96c1-11ccc474c581" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b3c49144-b83a-2af6-30d5-603c3d38c099" executionId="33d616e9-de16-4838-969a-fcf9248e6764" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Wyniki, których nie ma na liście" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Wszystkie załadowane wyniki" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.8.2+699d445a1a (64-bit .NET 9.0.10)&#xD;
+[xUnit.net 00:00:00.06]   Discovering: CalculatorApp.Tests&#xD;
+[xUnit.net 00:00:00.09]   Discovered:  CalculatorApp.Tests&#xD;
+[xUnit.net 00:00:00.09]   Starting:    CalculatorApp.Tests&#xD;
+[xUnit.net 00:00:00.16]   Finished:    CalculatorApp.Tests&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
