@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\witam\\Desktop\\calculatortdd\\CalculatorApp\\CalculatorApp.csproj",
+      "projectUniqueName": "C:\\Users\\witam\\Desktop\\calculatormoq\\CalculatorApp\\CalculatorApp.csproj",
       "projectName": "CalculatorApp",
-      "projectPath": "C:\\Users\\witam\\Desktop\\calculatortdd\\CalculatorApp\\CalculatorApp.csproj",
+      "projectPath": "C:\\Users\\witam\\Desktop\\calculatormoq\\CalculatorApp\\CalculatorApp.csproj",
       "packagesPath": "C:\\Users\\witam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\witam\\Desktop\\calculatortdd\\CalculatorApp\\obj\\",
+      "outputPath": "C:\\Users\\witam\\Desktop\\calculatormoq\\CalculatorApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
